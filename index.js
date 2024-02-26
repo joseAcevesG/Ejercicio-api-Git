@@ -1,4 +1,5 @@
 const express = require("express");
+const index_routes = require('./src/routes');
 
 const app = express()
 
